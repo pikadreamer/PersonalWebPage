@@ -4,3 +4,22 @@
     <meta charset="UTF-8/>
     <title>Pikadreamer's personal Website</title>
   </head>
+ 
+<header>
+  <h1>Hi! I am Pikadreamer & this is my personal webpage.</h1>
+</header>
+
+<article>
+  <header>
+    <h2>Here some facts about me:</h2>
+    
+   <ol>
+    <li>I'm stubborn;</li>
+    <li>I'm responsible;</li>
+    <li>I love teaching;</li>
+    <li>I'm shy;</li>
+    <li>I'm stubborn.</li>
+    </ol>
+    
+    
+    
